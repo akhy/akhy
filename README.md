@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+I'm a nerdy tech enthusiast living in Indonesia. 
+
+People call me DevOps Engineer at work, and it gives the clue about my interests. I speak mostly in Go nowadays, but I'm also fluent in Python, Ruby, and shell scripting. I love to build anything useful using my skills. Drop me a message if you have any interesting work/collaboration opportunities.
+
+I would love to hack on several certain areas, but not limited to:
+
+- Kubernetes and its ecosystem/toolings
+- Infrastructure as code
+- Continuous integration/delivery
+- System observability
+- Automation and power user tools
+- etc
+
+Some facts that might give you more ideas on how I work:
+
+- I'm a CLI and keyboard guy, but don't mind using mouse
+- I put my machine configs on akhy/dotfiles
+- I always setup CI/CD on my projects
+- I know separation of concerns and design patterns
+- I love making reusable code
+- I use `git fetch` + `git merge` instead of `git pull`
+
+Cheers! 🍻
+
 <!--
 **akhy/akhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
