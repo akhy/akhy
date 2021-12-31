@@ -4,13 +4,14 @@ I'm a nerdy tech enthusiast living in Indonesia.
 
 People call me DevOps Engineer at work, and it gives the clue about my interests. I speak mostly in Go nowadays, but I'm also fluent in Python, Ruby, and shell scripting. I love to build anything useful using my skills. Drop me a message if you have any interesting work/collaboration opportunities.
 
-I would love to hack on several certain areas, but not limited to:
+I love hacking on several certain areas, but not limited to:
 
 - Kubernetes and its ecosystem/toolings
 - Infrastructure as code
 - Continuous integration/delivery
 - System observability
 - Automation and power user tools
+- Any profitable simple side hustles 
 - etc
 
 Some facts that might give you more ideas on how I work:
@@ -21,6 +22,8 @@ Some facts that might give you more ideas on how I work:
 - I know separation of concerns and design patterns
 - I love making reusable code
 - I use `git fetch` + `git merge` instead of `git pull`
+- I'm bad at working with datetime
+- Configurable conventions pls
 
 Cheers! 🍻
 
