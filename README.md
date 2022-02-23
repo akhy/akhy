@@ -11,19 +11,8 @@ I love hacking on several certain areas, but not limited to:
 - Continuous integration/delivery
 - System observability
 - Automation and power user tools
-- Any profitable simple side hustles 
+- Any simple and (hopefully) profitable side hustles 
 - etc
-
-Some facts that might give you more ideas on how I work:
-
-- I'm a CLI and keyboard guy, but don't mind using mouse
-- I put my machine configs on akhy/dotfiles
-- I always setup CI/CD on my projects
-- I know separation of concerns and design patterns
-- I love making reusable code
-- I use `git fetch` + `git merge` instead of `git pull`
-- I'm bad at working with datetime
-- Configurable conventions pls
 
 Cheers! 🍻
 
