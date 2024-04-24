@@ -6,6 +6,7 @@ People call me DevOps Engineer at work, and it gives the clue about my interests
 
 I love hacking on several certain areas, but not limited to:
 
+- Self-hosted services
 - Kubernetes and its ecosystem/toolings
 - Infrastructure as code
 - Continuous integration/delivery
