@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-I'm a nerdy tech enthusiast living in Indonesia. 
+I'm a software engineer from Indonesia specializing in DevOps and platform engineering. Currently building with Go, Python, Ruby, and shell scripting.
 
-Professionally a software engineer specialising in DevOps and platform engineering. I speak mostly in Go nowadays, but I'm also fluent in Python, Ruby, and shell scripting. I love to build anything useful using my skills. Drop me a message if you have any interesting work/collaboration opportunities.
+**What I'm passionate about:**
+- Self-hosted services and homelab infrastructure
+- Kubernetes ecosystem and tooling
+- Infrastructure as Code (IaC)
+- CI/CD pipelines and automation
+- System observability and monitoring
+- Developer productivity tools
+- Side projects that solve real problems
 
-I love hacking on several certain areas, but not limited to:
+Always open to interesting collaboration opportunities and challenging technical problems. Feel free to reach out!
 
-- Self-hosted services and Homelab
-- Kubernetes and its ecosystem/toolings
-- Infrastructure as code
-- Continuous integration/delivery
-- System observability
-- Automation and power user tools
-- Any simple and (hopefully) profitable side hustles 
-- etc
-
-Cheers! 🍻
+🍻 Cheers!
